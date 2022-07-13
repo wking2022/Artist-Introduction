@@ -1,0 +1,38 @@
+body {
+  background-color: Brown;
+}
+
+h1 {
+  color: Grey;
+  font-size: 34px;
+  font-family: sans-serif;
+}
+
+.King {
+  padding-left: 150px;
+  background-color: white
+}
+
+.Kong {
+  background-color: tan
+}
+
+div {
+  border: solid black;
+  padding-left: 25px
+}
+
+img {
+  margin-left: 10pc;
+  
+}
+
+h6 {
+  Padding-left: 10pc
+}
+
+p, li{
+  font-family: sans-serif;
+  color: white
+  
+}
